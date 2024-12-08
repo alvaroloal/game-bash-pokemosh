@@ -1,4 +1,6 @@
 # game-bash-pokemosh
+  <img src="images/pokemosh_game.png" width="400">
+  
 - Juego en Bash (Shell scripting) de batallas Pokémon en la terminal, diseñado para ejecutarse en la terminal de Linux.
 - Menú para que el usuario elija un nombre, seleccione un Pokémon, y se enfrente a contrincantes en batallas.
 - El jugador puede elegir entre tres Pokémon iniciales. Cada uno tiene ataques y habilidades específicas.
